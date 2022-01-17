@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Paulo Hugo 👋
 
 - 💻 Técnico em Informática 3/3
-- 🌱 Estudando Git e GitHub..
-- 🏋️‍♀️ Calistênico 
+- 🌱 Estudando Git e GitHub...
+- 🏋️‍♀️ Calistênico
+- ❤  Apaixonado por Tecnologia
 
 <div align="center">
   <a href="https://github.com/santiagohugo">
