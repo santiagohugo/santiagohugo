@@ -2,8 +2,10 @@
 
 - 💻 Técnico em Informática 3/3
 - 🌱 Estudando Git e GitHub...
-- 🏋️‍♀️ Calistênico
 - ❤  Apaixonado por Tecnologia
+- 🏋️‍♀️ Calistênico
+
+
 
 <div align="center">
   <a href="https://github.com/santiagohugo">
