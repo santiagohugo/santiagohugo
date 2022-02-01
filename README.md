@@ -34,6 +34,8 @@
   
   ![Snake animation](https://github.com/santiagohugo/santiagohugo/blob/output/github-contribution-grid-snake.svg)
  
+##
+  
 <p align="center"> Tanto de pessoas que visitaram meu perfil: ⏳ </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 </div>
