@@ -1,8 +1,7 @@
-## E aí! Paulo Hugo aqui 😜
+## Um admirador da tecnologia 😜
 
 - 📚 Graduando em Ciência da Computação
 - 💻 Técnico em Informática 
-- ❤  Apaixonado por Tecnologia
 
 
 
