@@ -30,13 +30,6 @@
 <div>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:contatopaulohugo23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/santiagohugo/santiagohugo/blob/output/github-contribution-grid-snake.svg)
- 
-##
-  
-<p align="center"> Tanto de pessoas que visitaram meu perfil: ⏳ </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
-</div>
 
+ 
   
