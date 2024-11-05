@@ -1,9 +1,9 @@
 ## E aí! Paulo Hugo aqui 😜
 
-- 💻 Técnico em Informática 3/3
-- 🌱 Estudando **Git e GitHub**...
+- 📚 Graduando em Ciência da Computação
+- 💻 Técnico em Informática 
 - ❤  Apaixonado por Tecnologia
-- 🏋️‍♀️ Calistênico
+
 
 
 
