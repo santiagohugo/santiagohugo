@@ -1,4 +1,4 @@
-## Um admirador da tecnologia 😜
+## Entusiasta da tecnologia 😜
 
 - 📚 Graduando em Ciência da Computação
 - 💻 Técnico em Informática 
